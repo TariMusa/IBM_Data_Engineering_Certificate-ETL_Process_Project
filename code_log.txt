@@ -1,0 +1,109 @@
+2024-11-29 17:40:03 : Starting ETL process
+2024-11-29 17:40:03 : Starting data extraction process
+2024-11-29 17:40:53 : Starting ETL process
+2024-11-29 17:40:53 : Starting data extraction process
+2024-11-29 17:45:36 : Starting ETL process
+2024-11-29 17:45:36 : Starting data extraction process
+2024-11-29 17:45:37 : Data extraction complete
+2024-11-29 17:46:19 : Starting ETL process
+2024-11-29 17:46:19 : Starting data extraction process
+2024-11-29 17:50:31 : Starting ETL process
+2024-11-29 17:50:31 : Starting data extraction process
+2024-11-29 17:50:32 : Data extraction complete
+2024-11-29 17:50:32 : Data transformation complete
+2024-11-29 17:50:32 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-11-29 17:50:32 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-11-29 17:50:32 : ETL process complete
+2024-11-29 17:52:09 : Starting ETL process
+2024-11-29 17:52:09 : Starting data extraction process
+2024-11-29 17:52:29 : Data extraction complete
+2024-11-29 17:52:29 : Data transformation complete
+2024-11-29 17:52:29 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-11-29 17:52:29 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-11-29 17:52:29 : ETL process complete
+2024-11-29 17:55:12 : Starting ETL process
+2024-11-29 17:55:12 : Starting data extraction process
+2024-11-29 17:55:12 : Data extraction complete
+2024-11-29 17:55:12 : Data transformation complete
+2024-11-29 17:55:12 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-11-29 17:55:12 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-11-29 17:55:12 : ETL process complete
+2024-12-01 14:50:50 : Starting ETL process
+2024-12-01 14:50:50 : Starting data extraction process
+2024-12-01 14:50:51 : Data extraction complete
+2024-12-01 14:54:41 : Starting ETL process
+2024-12-01 14:54:41 : Starting data extraction process
+2024-12-01 14:54:42 : Data extraction complete
+2024-12-01 14:54:42 : Data transformation complete
+2024-12-01 14:54:42 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 14:58:08 : Starting ETL process
+2024-12-01 14:58:08 : Starting data extraction process
+2024-12-01 14:58:09 : Data extraction complete
+2024-12-01 14:58:09 : Data transformation complete
+2024-12-01 14:58:09 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 14:58:09 : ETL process complete
+2024-12-01 14:59:48 : Starting ETL process
+2024-12-01 14:59:48 : Starting data extraction process
+2024-12-01 14:59:48 : Data extraction complete
+2024-12-01 15:00:10 : Starting ETL process
+2024-12-01 15:00:10 : Starting data extraction process
+2024-12-01 15:00:13 : Data extraction complete
+2024-12-01 15:00:13 : Data transformation complete
+2024-12-01 15:00:13 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:00:13 : ETL process complete
+2024-12-01 15:07:56 : Starting ETL process
+2024-12-01 15:07:56 : Starting data extraction process
+2024-12-01 15:08:16 : Data extraction complete
+2024-12-01 15:08:16 : Data transformation complete
+2024-12-01 15:08:16 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:08:16 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:08:16 : ETL process complete
+2024-12-01 15:15:53 : Starting ETL process
+2024-12-01 15:15:53 : Starting data extraction process
+2024-12-01 15:16:07 : Starting ETL process
+2024-12-01 15:16:07 : Starting data extraction process
+2024-12-01 15:17:38 : Starting ETL process
+2024-12-01 15:17:38 : Starting data extraction process
+2024-12-01 15:17:39 : Data extraction complete
+2024-12-01 15:17:39 : Data transformation complete
+2024-12-01 15:17:39 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:17:39 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:17:39 : ETL process complete
+2024-12-01 15:18:10 : Starting ETL process
+2024-12-01 15:18:10 : Starting data extraction process
+2024-12-01 15:18:11 : Data extraction complete
+2024-12-01 15:18:11 : Data transformation complete
+2024-12-01 15:18:11 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:18:11 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:18:11 : ETL process complete
+2024-12-01 15:18:25 : Starting ETL process
+2024-12-01 15:18:25 : Starting data extraction process
+2024-12-01 15:18:26 : Data extraction complete
+2024-12-01 15:18:26 : Data transformation complete
+2024-12-01 15:18:26 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:18:26 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:18:26 : ETL process complete
+2024-12-01 15:19:51 : Starting ETL process
+2024-12-01 15:19:51 : Starting data extraction process
+2024-12-01 15:19:52 : Data extraction complete
+2024-12-01 15:19:52 : Data transformation complete
+2024-12-01 15:19:52 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:19:52 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:19:52 : ETL process complete
+2024-12-01 15:21:14 : Starting ETL process
+2024-12-01 15:21:14 : Starting data extraction process
+2024-12-01 15:21:15 : Data extraction complete
+2024-12-01 15:22:15 : Starting ETL process
+2024-12-01 15:22:15 : Starting data extraction process
+2024-12-01 15:22:15 : Data extraction complete
+2024-12-01 15:22:15 : Data transformation complete
+2024-12-01 15:22:15 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:22:15 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:22:15 : ETL process complete
+2024-12-01 15:23:39 : Starting ETL process
+2024-12-01 15:23:39 : Starting data extraction process
+2024-12-01 15:23:39 : Data extraction complete
+2024-12-01 15:23:39 : Data transformation complete
+2024-12-01 15:23:39 : Data saved to CSV file at ./Largest_banks_data.csv
+2024-12-01 15:23:39 : Data saved to SQL database at ./Banks.db, table Largest_banks
+2024-12-01 15:23:39 : ETL process complete
